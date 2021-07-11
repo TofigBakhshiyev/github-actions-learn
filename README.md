@@ -1,4 +1,4 @@
-# Flask web app
+# Flask web-app
 
 This is a simple Flask web application for learning github actions.
 
